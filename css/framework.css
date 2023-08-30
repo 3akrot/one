@@ -1,0 +1,122 @@
+
+:root {
+    --main-transtion:.3s;
+}
+/* components */
+
+/* components */
+/* rules */
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    background-color: red;
+}
+/* position */
+.position-relative { 
+    position: relative;
+}
+.position-stikey-50px {
+    position: sticky;
+    top: 30px;
+}
+.position-fixed {
+    position: fixed;
+}
+
+.position-center-Y {
+    top: 50%;
+    transform: translateY(-50%);
+}
+.position-center-X {
+    left: 50%;
+    transform: translateX(-50%);
+}
+/* position */
+/* padding */
+.p-10px {
+    padding: 10px;
+}
+.p-5px {
+    padding: 5px;
+}
+.p-vartical-10 {
+    padding-top:10px ;
+    padding-bottom:10px ;
+
+}
+.p-vartical-15 {
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.p-inline-10px {
+    padding-inline: 10px;
+}
+
+/* padding */
+/* margin */
+.m-vartical-10 {
+    margin-top:10px ;
+    margin-bottom: 10px;
+}
+.m-vartical-15 {
+    margin-top:15px ;
+    margin-bottom: 15px;
+}
+.m-vartical-5 {
+    margin-top:5px ;
+    margin-bottom: 5px;
+}
+/* margin */
+
+/* display */
+.block {
+    display: block;
+}
+.flex {
+    display: flex;
+}
+
+/* display */
+/* gap */
+.gap-10px {
+    gap: 10px;
+}
+.gap-20px {
+    gap: 20px;
+}
+.gap-35px {
+    gap: 35px;
+}
+/* gap */
+/* Shadow */
+.shadow {
+    box-shadow: 5px 0px 5px rgba(187, 169, 169, 0.38);
+
+}
+/* Shadow */
+/* text */
+.text-align-center {
+    text-align: center;
+}
+.text-transform-uppercase {
+    text-transform: uppercase;
+}
+/* text */
+
+
+
+
+.color-black {
+    color: black;
+}
+.font-size-14 {
+    font-size: 14px;
+}
+.font-weight-400 {
+    font-weight: 400;
+
+}
+
+/* rules */
+
